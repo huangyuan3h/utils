@@ -1,0 +1,20 @@
+{
+  "version": "6.0",
+  "nxVersion": "18.0.0",
+  "deps": {},
+  "pathMappings": {},
+  "nxJsonPlugins": [],
+  "fileMap": {
+    "projectFileMap": {},
+    "nonProjectFiles": [
+      {
+        "file": "README.md",
+        "hash": "2624393197388313932"
+      },
+      {
+        "file": "package.json",
+        "hash": "3071315888715365337"
+      }
+    ]
+  }
+}

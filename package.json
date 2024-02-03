@@ -1,0 +1,17 @@
+{
+  "name": "utils",
+  "version": "1.0.0",
+  "repository": "git@github.com:huangyuan3h/utils.git",
+  "author": "huangyuan3h <huangyuan3h@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "storybook": "lerna run storybook --scope=storybook"
+  },
+  "devDependencies": {
+    "lerna": "^8.0.2"
+  },
+  "workspaces": [
+    "components/*",
+    "common/*"
+  ]
+}
